@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![HesabdariShop Dashboard](screenshot.png)
+![HesabdariShop Dashboard](screenshot.jpg)
 
 </div>
 
