@@ -11,9 +11,9 @@
 [![Version](https://img.shields.io/badge/Version-2.0.0-23364d?style=for-the-badge)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-Trial%20%2F%20Commercial-27ae60?style=for-the-badge)](#-لایسنس)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+<!-- [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/) -->
 
-<br>
+ <br>
 
 **حسابداری فروشگاه، ساده‌تر از همیشه**
 
@@ -86,11 +86,10 @@
 | معماری | 64-bit |
 | فضای موردنیاز | حدود 150 مگابایت |
 | اتصال به اینترنت | فقط برای بررسی به‌روزرسانی و فعال‌سازی لایسنس |
-| نصب Python | موردنیاز نیست |
 
 
 
-> این برنامه به‌صورت مستقل اجرا می‌شود و برای استفاده از آن نیازی به نصب Python ندارید.
+> این برنامه به‌صورت مستقل اجرا می‌شود و برای استفاده از آن نیازی به نصب چیزی ندارید.
 
 </div>
 
